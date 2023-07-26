@@ -4,4 +4,19 @@
 }
 .container{
   border: 1px solid red;
+  max-width: 210px;
+  height: 50vh;
+  margin: 50px auto;
+  text-align: center;
+  margin-bottom: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+h1{
+  font-size: 60px;
+  color:green
+}
+button{
+  padding: 20px;
 }
