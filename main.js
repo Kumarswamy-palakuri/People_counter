@@ -11,5 +11,6 @@ function mysav(){
   st=st+" :"+count;
   s.innerText=st;
   count=0;
+  c.innerText=0;
   console.log(c);
 }
